@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\bufet\bin\Debug\netcoreapp3.1\bufet.exe
+C:\Users\HP\Desktop\bufet\bin\Debug\netcoreapp3.1\bufet.deps.json
+C:\Users\HP\Desktop\bufet\bin\Debug\netcoreapp3.1\bufet.runtimeconfig.json
+C:\Users\HP\Desktop\bufet\bin\Debug\netcoreapp3.1\bufet.runtimeconfig.dev.json
+C:\Users\HP\Desktop\bufet\bin\Debug\netcoreapp3.1\bufet.dll
+C:\Users\HP\Desktop\bufet\bin\Debug\netcoreapp3.1\bufet.pdb
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.AssemblyInfo.cs
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.dll
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.pdb
+C:\Users\HP\Desktop\bufet\obj\Debug\netcoreapp3.1\bufet.genruntimeconfig.cache
